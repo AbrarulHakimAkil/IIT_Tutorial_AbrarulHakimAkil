@@ -1,1 +1,51 @@
+*Line of Python code that displays the sum of 468 + 751:
+print(468 + 751)
+
+*Line of Python code that displays the words "How are you?" to the screen:
+print("How are you?")
+
+*Output of the given Python statement:
+print(8 / 3, 4 * 7, 9 + 13, 2 ** 5, 6 * (3 + 2))
+Output:2.6666666666666665 28 22 32 30
+
+*Python statement that creates a variable called size and assigns the value 77 to it:
+size = 77
+
+*Output of the following program
+x = 5
+y = 7
+print(abs(x - y) - 10)
+print(int(x ** 2) + 1.4)
+print(round(y + 3.14159, 2))
+output:
+-8
+26.4
+10.14
+
+*Output of the following program
+a = 31
+b = 7
+print(a // b, a % b)
+Output: 4 3 
+
+*Python program to convert 250 minutes into hours and minutes:
+minutes = 250
+hours = minutes // 60
+remaining_minutes = minutes % 60
+print("Hours:", hours)
+print("Minutes:", remaining_minutes)
+Output:
+Hours: 4
+Minutes: 10
+
+*Output of the following program
+str1 = "it is what it is"
+print(str1.find("is"), str1.rfind("it"), str1[-9:-7])
+output: 3 12 wh
+
+*Output of the following program
+str1 = "it is what it is"
+print(str1[-9:])
+output:
+what it is
 
